@@ -10,6 +10,7 @@ Soco is an interactive AI Chatbot is developed using Streamlit. The application 
 - Includes a user-friendly UI powered by Streamlit.
         
 It aims to provide accurate and concise responses, adhering to user requirements like word limits and context-sensitive queries.
+Click [here](media/demo.mp4) to watch the demo.
 
 ### **Working**
 
