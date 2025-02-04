@@ -1,12 +1,14 @@
 # SOCO--Agentic-Chat-Agent
-Soco is an interactive AI Chatbot is developed using Streamlit. The application combines Prompt Engineering, Agentic AI, Langchain , Groq API, real time Weather API and Conversational Intelligence. The Project understand the users intent and context using LLM (llama3-8b-8192), and provides conversational and reactive response to the user. The Conversational AI Agent can:
-✅Understand user intent and context using an LLM by Groq API model(llama3-8b-8192) 
-✅ Leverage LangChain for multi-step reasoning or memory retention.
-✅ Fetch external data via an API (real-time weather).
-✅ Exhibits better response coherence and adaptability using Prompt Engineering.
-✅The Agent can decide when to call an api based on the queries
-✅ Uses Langchain memory for multi-turn Conversation
-✅ Has Streamlit  UI interface 
+Soco is an interactive AI Chatbot is developed using Streamlit. The application combines Prompt Engineering, Agentic AI, Langchain , Groq API, real time Weather API and Conversational Intelligence. The Project understand the users intent and context using LLM (llama3-8b-8192), and provides conversational and reactive response to the user. 
+**Features**
+        ✅ Understands user intent and context using Groq API's Llama model (Llama3-8b-8192).
+        ✅ Leverages LangChain for multi-step reasoning and memory retention.
+        ✅ Fetches external data through APIs (e.g., real-time weather updates).
+        ✅ Enhances response coherence and adaptability using Prompt Engineering.
+        ✅ Intelligently decides when to call an API based on user queries.
+        ✅ Utilizes LangChain memory for multi-turn conversations.
+        ✅ Includes a user-friendly UI powered by Streamlit.
+        
 It aims to provide accurate and concise responses, adhering to user requirements like word limits and context-sensitive queries.
 
 **Working**
